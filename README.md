@@ -32,7 +32,9 @@ Projeto feito para um restaurante ficticio, sendo utilizando o CSS Flex e també
 
 🎥 Apresentação
 
+um pequeno vídeo de demostração
 
+![Conheça sobre o restaurante](https://github.com/CristianoDaSilvaFerreira/Restaurante/blob/main/2021-06-24%2018-53-59.gif)
 
 [Site Restaurante](https://cristianodasilvaferreira.github.io/Restaurante/)
 
